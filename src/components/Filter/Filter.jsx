@@ -24,5 +24,4 @@ export default function Filter(props) {
 Filter.propTypes = {
   filterContact: PropTypes.func.isRequired,
   filterValue: PropTypes.string.isRequired,
-  title: PropTypes.string.isRequired,
 };
